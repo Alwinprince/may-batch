@@ -1,0 +1,49 @@
+.box{
+
+    background-color: ;
+    padding: 40px;
+    width: 390px;
+    height: 390px;
+    color:gold;
+    border:3px solid gold;
+    border-radius: 8px;
+    
+  
+   
+
+    
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    background-image: url('wp7933902.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    /* background-position-x : -10000px; ; */
+
+}
+#line
+{
+    background-color: black;
+}
+
+.cls{
+    font-size:18px;
+}
+.new{
+    
+    background-color: ;
+    padding: 40px;
+    width: 190px;
+    height: 190px;
+    color:gold;
+    border:3px solid gold;
+    border-radius: 8px;
+}
+
+.hh{
+    font-size: 20px;
+    color:gold;
+}

@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "html",
+			"path": "."
+		},
+		{
+			"name": "bootstrap-5.3.1-dist",
+			"path": "../../Downloads/bootstrap-5.3.1-dist/bootstrap-5.3.1-dist"
+		},
+		{
+			"path": "../../Downloads/bootstrap-5.3.1-dist"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html"
+	}
+}
